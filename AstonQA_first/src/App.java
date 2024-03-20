@@ -21,7 +21,6 @@ public class App {
             System.out.println(a + " = " + b);
         }
 
-        // Выполнение операций и вывод результатов
         System.out.println("Сложение: " + (a + b));
         System.out.println("Вычитание: " + (a - b));
         // Проверка деления на ноль
